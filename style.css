@@ -190,3 +190,11 @@ body{
     width:60%;
     height:60%;
   }
+
+  @media(min-width:700px){
+    .demo {
+      opacity: 0.6;
+      height:20vh;
+      width:4rem;
+    }
+  }
